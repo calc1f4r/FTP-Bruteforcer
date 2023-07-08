@@ -1,0 +1,6 @@
+aioftp
+termcolor
+asyncio
+argparse
+ftplib
+paramiko
