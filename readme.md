@@ -77,5 +77,5 @@ python multithread-ssh-and-Ftp-Bruteforcer.py <target> -p <port> -w <wordlist> -
 **Example:**
 
 ```python
-multithread-ssh-and-Ftp-Bruteforcer.py 10.10.10.10 -p 22 -w passwords.txt -u admin -t 6 -ssh```
+multithread-ssh-and-Ftp-Bruteforcer.py 10.10.10.10 -p 22 -w passwords.txt -u admin -t 6 -ssh
 ```
